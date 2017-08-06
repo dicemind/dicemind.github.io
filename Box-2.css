@@ -1,0 +1,59 @@
+
+*{
+	box-sizing: border-box;
+}
+
+/*{
+	border: 1px solid black;
+	background-color: hsl(120, 100%, 75%);
+	margin: 10 ;
+} */
+
+body {
+	margin: 0px;
+}
+
+.header1 {
+	background-image: url("pic1111.jpg");
+	background-position: top center;
+	background-size: cover;
+	height: 700px;
+}
+
+.header1 h1 {
+	font-family: "Comic Sans MS";
+	text-align: center;
+	background-color: yellow;
+	height: auto;
+	width: 100%;
+	margin: 0 auto;
+	padding: 1em 50px;
+}
+
+.header1 p{
+	text-align: center;
+	background-color: cyan;
+	height: auto;
+	width: 30%;
+	margin: 50px auto;
+	padding: 1.5em 30px;
+}
+
+.parag2 {
+}
+
+.parag2 p{
+	text-align: center;
+	background-color: cyan;
+	height: auto;
+	width: 85%;
+	margin: 50px auto;
+	padding: 1.5em 30px;
+}
+
+#footer {
+	background-color: red;
+	color: white;
+	margin: 0px;
+	padding: 10px 0px;
+}
